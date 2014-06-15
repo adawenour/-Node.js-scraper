@@ -1,7 +1,7 @@
 -Node.js-scraper
 ================
 
-web scraper will be minimalistic. The technology stack that will be used to accomplished this will be NodeJS, ExpressJS, Request to Help make HTTP calls, Cheerio for Implementation of core jQuery, specifically for the server (helps traverse the DOM and extract data).
+Web scraper will be minimalistic and get some general movie information from IMDB. The technology stack that will be used to accomplished this will be NodeJS, ExpressJS, Request to Help make HTTP calls, Cheerio for Implementation of core jQuery, specifically for the server (helps traverse the DOM and extract data).No front-end user interface will be run in the command line.
 
 The application will visit a URL on my server that activates the web scraper
 
